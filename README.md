@@ -1,0 +1,2 @@
+# BestDealsWebsite_SY
+BEST DEALS WEBSITE is an attempt to help the customers in the buying process in a sophisticated categorized manner. I have categorized each and every product to a particular category and have clearly listed the important specifications which matter for making the decision. Then by using the Advanced Filter, the user can filter the products according to their preference. Yes, they can even rank the specification that are more important for them. Features like this is what makes this site, unique in its own way.
